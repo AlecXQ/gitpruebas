@@ -91,4 +91,4 @@ prueba = Ponente("Dokird","Sueños cuanticos.")
 prueba.exponerju()
 
 
-#vamos a probar git
+#vamos a probar git quizas para ver de nuevo
